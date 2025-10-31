@@ -33,6 +33,6 @@ Entusiasta de tecnologia e estudante de Informática p/ Internet com paixão por
 ### 🌎 Conecte-se comigo
 <p align="left">
   <a href="https://www.linkedin.com/in/isaacamorim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Isaac Amorim" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Isaac Amorim" /> 
   </a>
   </p>
