@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou o Isaac Amorim!
-Entusiasta de tecnologia e estudante de Informática p/ Internet com paixão por criar soluções fullstack eficientes e escaláveis. Atualmente focado em React Web, Node.js e Typescript
+Desenvolvedor **Full-Stack** com foco em criar soluções eficientes e escaláveis. Atualmente focado em **React Web, Node.js e Typescript**
 
 
 ### 🛠️ Tecnologias & Ferramentas
@@ -18,7 +18,7 @@ Entusiasta de tecnologia e estudante de Informática p/ Internet com paixão por
 <ul>
   <li>🎓 Cursando Informática p/ Internet na ETEC Bartolomeu.</li>
   <li>🌱 Atualmente explorando criação de APIs usando NestJS.</li>
-  <li>🚀 Buscando minha primeira oportunidade para atuar com o mercado da TI.</li>
+  <li>🚀 Buscando minha primeira oportunidade para atuar com o mercado de TI.</li>
   <li>💡 Foco em boas práticas de desenvolvimento e código limpo.</li>
 </ul>
 
