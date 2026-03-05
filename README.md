@@ -22,20 +22,19 @@ Sou um desenvolvedor focado em construir soluções escaláveis e eficientes. Co
 
 #### 🏛️ [Biblioteca Ativa - TCC 2025](https://github.com/isaacamorimm/BibliotecaAtiva-TCC2025)
 Sistema completo para digitalização e gestão da biblioteca escolar.
-* **Techs:** Node.js, JavaScript.
+* **Techs:** `Node.js` `JavaScript`
 
 #### 📈 [InvestWise](https://github.com/AndreOliveira509/InvestWise)
 Plataforma de gestão financeira pessoal e controle de investimentos.
-* **Techs:** Node.js, React.
+* **Techs:** `Node.js` `React`
 
 #### 🖱️ [Controle de Mouse via Gestos](https://github.com/isaacamorimm/ControledeMouse)
 Projeto de inovação utilizando visão computacional para controle periférico.
-* **Techs:** Python/Node.js, OpenCV, MediaPipe.
+* **Techs:** `Python` `OpenCV` `MediaPipe`
 
 ---
 
-### 📊 Contribuições e Foco
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacamorimm&theme=transparent&hide_border=true&title_color=3178C6&text_color=ffffff&sideNums_color=3178C6" alt="GitHub Streak" />
 </p>
 
