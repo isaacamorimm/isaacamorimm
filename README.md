@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Isaac Amorim
 
-**Desenvolvedor Backend | Estudante de Ciência da Computação na Mackenzie**
+**Desenvolvedor Full-Stack | Estudante de Ciência da Computação na Mackenzie**
 
 Sou um desenvolvedor focado em construir soluções escaláveis e eficientes. Com formação técnica pela ETEC e atualmente graduando na Mackenzie, dedico meu tempo ao aperfeiçoamento em arquitetura de software, boas práticas (Clean Code) e tecnologias modernas do ecossistema JavaScript.
 
