@@ -1,50 +1,38 @@
-# 👋 Olá, eu sou o Isaac Amorim
+# 👨‍💻 Isaac Amorim
 
-**Desenvolvedor Full-Stack | Estudante de Ciência da Computação na Mackenzie**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaacamorim)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:isaacamorimml@gmail.com)
+[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/isaacamorimm)
 
-Sou um desenvolvedor focado em construir soluções escaláveis e eficientes. Com formação técnica pela ETEC e atualmente graduando na Mackenzie, dedico meu tempo ao aperfeiçoamento em arquitetura de software, boas práticas (Clean Code) e tecnologias modernas do ecossistema JavaScript.
+> **Estagiário em Desenvolvimento de Sistemas @ Luxy Service** | **Estudante de Ciência da Computação @ Mackenzie**
 
----
-
-### 🛠️ Stack Tecnológica
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | JavaScript (ES6+), TypeScript |
-| **Backend** | Node.js, NestJS, Express |
-| **Frontend** | React, Tailwind CSS, HTML5, CSS3 |
-| **Ferramentas** | Git, GitHub, Docker |
-| **Banco de dados** | PostgreSQL, MySQL |
+Sou um desenvolvedor full-stack focado na construção de aplicações robustas, eficientes e escaláveis. Com base técnica pela ETEC e imerso nos fundamentos da Ciência da Computação, dedico meu tempo ao aperfeiçoamento em arquitetura de software, Clean Code e soluções em Cloud Computing.
 
 ---
 
-### 📂 Projetos em Destaque
+### ⚡ Tecnologias e Ferramentas
 
-#### 🏛️ [Biblioteca Ativa - TCC 2025](https://github.com/isaacamorimm/BibliotecaAtiva-TCC2025)
-Sistema completo para digitalização e gestão da biblioteca escolar.
-* **Techs:** `Node.js` `JavaScript`
-
-#### 📈 [InvestWise](https://github.com/AndreOliveira509/InvestWise)
-Plataforma de gestão financeira pessoal e controle de investimentos.
-* **Techs:** `Node.js` `React`
-
-#### 🖱️ [Controle de Mouse via Gestos](https://github.com/isaacamorimm/ControledeMouse)
-Projeto de inovação utilizando visão computacional para controle periférico.
-* **Techs:** `Python` `OpenCV` `MediaPipe`
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,postgres,mysql,docker,aws,git&theme=dark" alt="Minha Stack" />
+  </a>
+</div>
 
 ---
+
+### 🚀 Principais Projetos
+
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| 📚 **[Biblioteca Ativa (TCC)](https://github.com/isaacamorimm/BibliotecaAtiva-TCC2025)** | Plataforma full-stack para digitalização e gestão do acervo da biblioteca da ETEC. Possui catálogos, empréstimos e painéis administrativos distintos. | `Node.js`, `Express`, `PostgreSQL`, `Docker` |
+| 📈 **[InvestWise](https://github.com/AndreOliveira509/InvestWise)** | Aplicação web de gerenciamento financeiro pessoal. Permite rastreamento de transações, patrimônio e visualização de desempenho de investimentos. | `NestJS`, `React`, `TypeScript`, `Prisma` |
+| 🖱️ **[Controle de Mouse via Gestos](https://github.com/isaacamorimm/ControledeMouse)** | Projeto de inovação utilizando visão computacional para controlar o cursor do computador através de movimentos das mãos. | `Python`, `OpenCV`, `MediaPipe` |
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacamorimm&theme=transparent&hide_border=true&title_color=3178C6&text_color=ffffff&sideNums_color=3178C6" alt="GitHub Streak" />
-</p>
-
-> [!TIP]
-> **Atualmente focado em:** Aprofundar conhecimentos em APIs robustas com NestJS, evoluir o meu conhecimento em Cloud Computing e explorar os fundamentos de Ciência da Computação na graduação.
-
----
-
-### 🌎 Conecte-se Comigo
-<p align="left">
-  <a href="https://www.linkedin.com/in/isaacamorim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:isaac.castro.gamer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=isaacamorimm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=isaacamorimm&layout=donut&langs_count=5&theme=tokyonight&hide=jupyter,jupyter%20notebook,html,css" width="48%" />
 </p>
