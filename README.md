@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:isaacamorimml@gmail.com)
 [![Portfolio](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/isaacamorimm)
 
-> **Estagiário em Desenvolvimento de Sistemas @ Luxy Service** | **Estudante de Ciência da Computação @ Mackenzie**
+> **Systems Development Intern @ Luxy Service | Computer Science Student @ Mackenzie**
 
 Sou um desenvolvedor full-stack focado na construção de aplicações robustas, eficientes e escaláveis. Com base técnica pela ETEC e imerso nos fundamentos da Ciência da Computação, dedico meu tempo ao aperfeiçoamento em arquitetura de software, Clean Code e soluções em Cloud Computing.
 
