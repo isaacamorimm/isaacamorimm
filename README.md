@@ -34,5 +34,5 @@ Sou um desenvolvedor full-stack focado na construção de aplicações robustas,
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isaacamorimm&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=isaacamorimm&layout=donut&langs_count=5&theme=tokyonight&hide=jupyter,jupyter%20notebook,html,css" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=isaacamorimm&layout=donut&langs_count=5&theme=tokyonight&hide=jupyter,jupyter%20notebook,html,css" width="33%" />
 </p>
