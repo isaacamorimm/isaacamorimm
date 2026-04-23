@@ -26,7 +26,7 @@ Sou um desenvolvedor full-stack focado na construção de aplicações robustas,
 | :--- | :--- | :--- |
 | 📚 **[Biblioteca Ativa (TCC)](https://github.com/isaacamorimm/BibliotecaAtiva-TCC2025)** | Plataforma full-stack para digitalização e gestão do acervo da biblioteca da ETEC. Possui catálogos, empréstimos e painéis administrativos distintos. | `Node.js`, `Express`, `PostgreSQL`, `Docker` |
 | 📈 **[InvestWise](https://github.com/AndreOliveira509/InvestWise)** | Aplicação web de gerenciamento financeiro pessoal. Permite rastreamento de transações, patrimônio e visualização de desempenho de investimentos. | `NestJS`, `React`, `TypeScript`, `Prisma` |
-| 🖱️ **[Controle de Mouse via Gestos](https://github.com/isaacamorimm/ControledeMouse)** | Projeto de inovação utilizando visão computacional para controlar o cursor do computador através de movimentos das mãos. | `Python`, `OpenCV`, `MediaPipe` |
+| 🖱️ **[ChatBot com Python](https://github.com/isaacamorimm/PythonDev)** | Projeto desenvolvido para a criação de um chatbot simples, servindo de experiência para futuros projetos. | `Python`, `Streamlit`, `Gemini API` |
 
 ---
 
