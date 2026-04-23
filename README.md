@@ -14,7 +14,7 @@ Sou um desenvolvedor full-stack focado na construção de aplicações robustas,
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,postgres,mysql,docker,aws,git&theme=dark" alt="Minha Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,python,postgres,mysql,docker,aws,git&theme=dark" alt="Minha Stack" />
   </a>
 </div>
 
